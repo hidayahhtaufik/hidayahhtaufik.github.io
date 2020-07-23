@@ -1,0 +1,44 @@
+
+    body {
+        background-color: gold;
+    }
+
+    #header {
+        object-position: center;
+        text-align: center;
+        background-color: rgb(238, 61, 8);
+    }
+
+    .Taufik
+ {
+        object-position: center;
+        text-align: center;
+        background-color: rgb(210, 235, 101);
+    }
+
+    .Selectors {
+        object-position: center;
+        text-align: center;
+        background-color: rgb(245, 248, 245);
+    }
+
+    .TheBox {
+        object-position: center;
+        text-align: center;
+        background-color: rgb(245, 248, 245);
+
+    }
+
+    .Display {
+        object-position: center;
+        text-align: center;
+        background-color: rgb(245, 248, 245);
+        
+    }
+
+    .Typography {
+        object-position: center;
+        text-align: center;
+        background-color: rgb(245, 248, 245);
+       
+    }
